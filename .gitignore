@@ -1,0 +1,4 @@
+.dynamodb
+node_modules
+.vscode
+.webpack
